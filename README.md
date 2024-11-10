@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SATHPRIYAN E</h1>
-<h3 align="center">A passionate Python Full Stack developer from India, Kerala, Kozhikode </h3>
+<h3 align="center">A passionate Python Full Stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathpriyan123" alt="sathpriyan123" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathpriyan-e-248907225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathpriyan-e-248907225" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sathpriyan-e-248907225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sathpriyan-e-248907225" height="30" width="40" /></a>
 <a href="https://instagram.com/priyan_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyan_77" height="30" width="40" /></a>
 </p>
 
