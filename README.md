@@ -1,10 +1,13 @@
 <div align="center">
 <img src="https://github.com/Sathpriyane123/Sathpriyane123/blob/aa5a52a1fde7dfb7b74f4a110dbddf2f388a55fc/LINKEDIN%20BG.jpg" align="center" style="width: 100%" />
 </div>  
+  <br>
+  <br>
+
+ <div align="center">Hy 🖐🏻<h1>I'm Sathpriyan E<h1/> , a full-time  Python full-stack developer 👨‍💻 working Gov cyber park kozhikode Doctosmart Enterprices 2024 🚀</div>  
   
 <img width="200" align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-### <div align="center">Hy <h1>I'm Sathpriyan E<h1/> , a full-time  Python full-stack developer 👨‍💻 working Gov cyber park kozhikode Doctosmart Enterprices 2024 🚀</div>  
-  
+
 
 - 🔭 I’m currently working on [IVF project]  
   
