@@ -5,7 +5,7 @@
 
 ### <div align="center">Hy  I'm Sathpriyan E, a full-time  Python full-stack developer 👨‍💻 working Gov cyber park kozhikode Doctosmart Enterprices 2024 🚀</div>  
   
-<img width="400" align="Right"  alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img width="400" align="right"  alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 - 🔭 I’m currently working on [IVF project]  
   
 
@@ -91,24 +91,4 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sathpriyane123&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
