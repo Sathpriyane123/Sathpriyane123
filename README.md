@@ -4,7 +4,7 @@
   <br>
   <br>
 
- <div align="center">Hy 🖐🏻<h1>I'm Sathpriyan E<h1/> , a full-time  Python full-stack developer 👨‍💻 working Gov cyber park kozhikode Doctosmart Enterprices 2024 🚀</div>  
+ <div align="center">Hy 🖐🏻<h1>I'm Sathpriyan E<h1/> , a full-time  Python full-stack developer 👨‍💻 </div>  
   
 <img width="200" align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
