@@ -45,9 +45,9 @@
 - ❓ Ask me about anything related to PYTHON  and related technologies  
   
 
-- - 🤖 Fun fact: I talk to my code like it can hear me!  
+ - 🤖 Fun fact: I talk to my code like it can hear me!  
 
-- - 📩 Contact: [sathpriyaneshaji@gmail.com](mailto:sathpriyaneshaji@gmail.com)  
+  - 📩 Contact: [sathpriyaneshaji@gmail.com](mailto:sathpriyaneshaji@gmail.com)  
   
 
 <br/>  
