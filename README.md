@@ -6,7 +6,7 @@
 
  <div align="center">Hy 🖐🏻<h1>I'm Sathpriyan E<h1/> , a full-time  Python full-stack developer 👨‍💻 </div>  
  <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
+
  
 
 <div align="center">
