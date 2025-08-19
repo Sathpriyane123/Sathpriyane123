@@ -51,45 +51,7 @@ I bridge the gap between **Software Development** and **Automation Engineering**
 
 ---
 
-## ⚡ My Skill Set  
 
-<table><tr><td valign="top" width="33%">
-
-### 🎨 Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" /></a>  
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" /></a>  
-</div>  
-
-</td><td valign="top" width="33%">
-
-### ⚙️ Backend  
-<div align="center">  
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" /></a>  
-</div>  
-
-</td><td valign="top" width="33%">
-
-### 🔌 Industrial & Embedded  
-<div align="center">  
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/arduino.png" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" height="50" /></a>  
-<a href="#" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-plc-industrial-automation-flat-flat-juicy-fish.png" height="50" alt="PLC" /></a>  
-<a href="#" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-industrial-automation-robotic-flat-flat-juicy-fish.png" height="50" alt="Industrial Automation" /></a>  
-</div>  
-
-</td></tr></table>  
-
----
 
 ## 🤝 Connect with Me  
 
