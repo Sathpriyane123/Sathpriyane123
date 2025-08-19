@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Sathpriyane123/Sathpriyane123/blob/aa5a52a1fde7dfb7b74f4a110dbddf2f388a55fc/LINKEDIN%20BG.jpg" align="center" style="width: 100%" />
+
 </div>  
   <br>
   <br>
@@ -35,13 +35,13 @@
 
 
 
-- 🔭 I’m currently working on Frontend and backend developer   
+- 🔭 I’m currently working on Industrial Automation   
   
 
-- 🌱 I’m currently learning AI ,reactjs , AWS  
+- 🌱 I’m currently learning  Industrial Automation & Instrumentations 
   
 
-- ❓ Ask me about anything related to PYTHON  and related technologies  
+- ❓ Ask me about anything related to PYTHON, PLC, SCADA, HMI, VFD, MCC and related technologies  
   
 
  - 🤖 Fun fact: I talk to my code like it can hear me!  
