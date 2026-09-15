@@ -65,19 +65,7 @@ I bridge the gap between **Software Development** and **Automation Engineering**
 </a>  
 </div>  
 
----
 
-## 📊 GitHub Stats  
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sathpriyane123&show_icons=true&count_private=true&hide_border=true" />
-</div>  
-
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 <b>⚡ "I love to connect with everyone and share knowledge!" ⚡</b>
 </div>
