@@ -29,8 +29,6 @@ I bridge the gap between **Software Development** and **Automation Engineering**
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" height="50" />
